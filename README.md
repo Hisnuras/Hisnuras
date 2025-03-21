@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Hisnuras !  
+🔹 Développeur spécialisé en **FiveM, automatisation et web**  
+🔹 Passionné par la création de scripts et d'outils personnalisés  
+🔹 Disponible pour des missions freelance  
 
-<!--
-**Hisnuras/Hisnuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Compétences  
+✅ FiveM (Lua, React, JavaScript)  
+✅ Automatisation (Google Apps Script, Python)  
+✅ Développement Web (React, APIs, UI/UX)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacte-moi  
+💼 [LinkedIn](ton-lien-ici)  
+📧 hisnuras@email.com  
