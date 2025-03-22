@@ -1,7 +1,6 @@
 # 👋 Salut, moi c'est Hisnuras !  
 🔹 Développeur spécialisé en **FiveM, automatisation et web**  
 🔹 Passionné par la création de scripts et d'outils personnalisés  
-🔹 Disponible pour des missions freelance  
 
 ## 🛠️ Compétences  
 ✅ FiveM (Lua, React, JavaScript)  
@@ -16,7 +15,6 @@
 # 👋 Hi, I'm Hisnuras !  
 🔹 Developer specialized in **FiveM, automation, and web**  
 🔹 Passionate about creating custom scripts and tools  
-🔹 Available for freelance projects  
 
 ## 🛠️ Skills  
 ✅ FiveM (Lua, React, JavaScript)  
