@@ -9,5 +9,19 @@
 ✅ Développement Web (React, APIs, UI/UX)  
 
 ## 📫 Contacte-moi  
-💼 [LinkedIn](ton-lien-ici)  
-📧 hisnuras@email.com  
+💼 [LinkedIn](www.linkedin.com/in/benjamin-macquet)  
+📧 à venir  
+
+#👋 Hi, I'm Hisnuras!
+🔹 Developer specialized in FiveM, automation, and web
+🔹 Passionate about creating custom scripts and tools
+🔹 Available for freelance projects
+
+🛠️ Skills
+✅ FiveM (Lua, React, JavaScript)
+✅ Automation (Google Apps Script, Python)
+✅ Web Development (React, APIs, UI/UX)
+
+📫 Contact me
+💼 [LinkedIn](www.linkedin.com/in/benjamin-macquet)  
+📧 coming soon
