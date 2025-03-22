@@ -13,16 +13,16 @@
 📧 à venir  
 
 
-# 👋 Hi, I'm Hisnuras!
-🔹 Developer specialized in FiveM, automation, and web
+# 👋 Hi, I'm Hisnuras !
+🔹 Developer specialized in **FiveM, automation, and web**
 🔹 Passionate about creating custom scripts and tools
 🔹 Available for freelance projects
 
-🛠️ Skills
+## 🛠️ Skills
 ✅ FiveM (Lua, React, JavaScript)
 ✅ Automation (Google Apps Script, Python)
 ✅ Web Development (React, APIs, UI/UX)
 
-📫 Contact me
+## 📫 Contact me
 💼 [LinkedIn](www.linkedin.com/in/benjamin-macquet)  
 📧 coming soon
