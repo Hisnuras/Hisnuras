@@ -8,7 +8,7 @@
 ✅ Développement Web (React, APIs, UI/UX)  
 
 ## 📫 Contacte-moi  
-💼 [LinkedIn](www.linkedin.com/in/benjamin-macquet)  
+💼 [LinkedIn](https://www.linkedin.com/in/benjamin-macquet/)  
 📧 à venir  
 
 
@@ -22,5 +22,5 @@
 ✅ Web Development (React, APIs, UI/UX)  
 
 ## 📫 Contact me  
-💼 [LinkedIn](www.linkedin.com/in/benjamin-macquet)  
+💼 [LinkedIn](https://www.linkedin.com/in/benjamin-macquet/)  
 📧 coming soon  
