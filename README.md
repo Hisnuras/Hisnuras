@@ -5,7 +5,7 @@
 ## 🛠️ Compétences  
 ✅ FiveM (Lua, Vue, JavaScript)  
 ✅ Automatisation (Google Apps, Script)  
-✅ Développement Web (APIs, UI/UX, Angular)  
+✅ Développement Web (APIs, UI/UX, Angular , Vue)  
 
 ## 📫 Contacte-moi  
 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-macquet/)  
@@ -19,7 +19,7 @@
 ## 🛠️ Skills  
 ✅ FiveM (Lua, Vue, JavaScript)  
 ✅ Automation (Google Apps, Script)  
-✅ Web Development (APIs, UI/UX, Angular)  
+✅ Web Development (APIs, UI/UX, Angular, Vue)  
 
 ## 📫 Contact me  
 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-macquet/)  
